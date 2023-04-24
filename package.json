@@ -1,0 +1,11 @@
+{
+  "name": "edge-repro",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@edge-runtime/jest-environment": "^2.0.8",
+    "jest": "^29.5.0"
+  }
+}
